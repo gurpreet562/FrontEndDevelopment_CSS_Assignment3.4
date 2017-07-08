@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title> 
+Text behind the image 
+</title> 
+<style> 
+.mydiv{ 
+    position:relative 
+} 
+.mydiv img{ 
+    position:absolute; 
+    top:0; 
+    left:0; 
+} 
+</style> 
+</head> 
+<body> 
+<div class="mydiv"> 
+A pseudo-class is used to define a special state of an element.•Style an element when a user mouses over it 
+Style visited and unvisited links differently 
+Style an element when it gets focus 
+ 
+<img src="mage.png"/> 
+</div> 
+</body> 
+</html> 
